@@ -1,0 +1,4 @@
+C:\Системне програмування\проекти\лаб-3\ServiceTask\ServiceTask\obj\Debug\ServiceTask.csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\лаб-3\ServiceTask\ServiceTask\obj\Debug\ServiceTask.ProjectInstaller.resources
+C:\Системне програмування\проекти\лаб-3\ServiceTask\ServiceTask\obj\Debug\ServiceTask.csproj.GenerateResource.cache
+C:\Системне програмування\проекти\лаб-3\ServiceTask\ServiceTask\obj\Debug\ServiceTask.csproj.CoreCompileInputs.cache

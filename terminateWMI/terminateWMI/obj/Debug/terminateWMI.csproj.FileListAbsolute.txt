@@ -1,0 +1,7 @@
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\obj\Debug\terminateWMI.csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\obj\Debug\terminateWMI.csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\bin\Debug\terminateWMI.exe.config
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\bin\Debug\terminateWMI.exe
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\bin\Debug\terminateWMI.pdb
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\obj\Debug\terminateWMI.exe
+C:\Системне програмування\проекти\terminateWMI\terminateWMI\obj\Debug\terminateWMI.pdb

@@ -1,0 +1,8 @@
+C:\Labs\service\service\bin\Debug\service.exe.config
+C:\Labs\service\service\bin\Debug\service.exe
+C:\Labs\service\service\bin\Debug\service.pdb
+C:\Labs\service\service\obj\Debug\service.ProjectInstaller.resources
+C:\Labs\service\service\obj\Debug\service.csproj.GenerateResource.cache
+C:\Labs\service\service\obj\Debug\service.csproj.CoreCompileInputs.cache
+C:\Labs\service\service\obj\Debug\service.exe
+C:\Labs\service\service\obj\Debug\service.pdb

@@ -1,0 +1,127 @@
+﻿Installing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Installing service TCPService...
+Service TCPService has been successfully installed.
+Creating EventLog source TCPService in log Application...
+Committing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Uninstalling assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Removing EventLog source TCPService.
+Service TCPService is being removed from the system...
+Service TCPService was successfully removed from the system.
+Installing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Installing service TCPService...
+Service TCPService has been successfully installed.
+Creating EventLog source TCPService in log Application...
+Committing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Uninstalling assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Removing EventLog source TCPService.
+Service TCPService is being removed from the system...
+Service TCPService was successfully removed from the system.
+Installing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Installing service TCPService...
+Service TCPService has been successfully installed.
+Creating EventLog source TCPService in log Application...
+Committing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Uninstalling assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Removing EventLog source TCPService.
+Service TCPService is being removed from the system...
+Service TCPService was successfully removed from the system.
+Installing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Installing service TCPService...
+Service TCPService has been successfully installed.
+Creating EventLog source TCPService in log Application...
+Committing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Uninstalling assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Removing EventLog source TCPService.
+Service TCPService is being removed from the system...
+Service TCPService was successfully removed from the system.
+Installing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Installing service TCPService...
+Service TCPService has been successfully installed.
+Creating EventLog source TCPService in log Application...
+Committing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Uninstalling assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Removing EventLog source TCPService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Removing EventLog source TCPService.
+Service TCPService is being removed from the system...
+Service TCPService was successfully removed from the system.
+Installing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog
+Installing service TCPService...
+Service TCPService has been successfully installed.
+Creating EventLog source TCPService in log Application...
+Committing assembly 'C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.exe
+   logfile = C:\lab_sys\TCP_Client_Server\TCP_Service\bin\Debug\TCP_Service.InstallLog

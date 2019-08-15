@@ -1,0 +1,7 @@
+C:\Системне програмування\проекти\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Системне програмування\проекти\FTP\FTP\bin\Debug\FTP.exe
+C:\Системне програмування\проекти\FTP\FTP\bin\Debug\FTP.pdb
+C:\Системне програмування\проекти\FTP\FTP\obj\Debug\FTP.csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\FTP\FTP\obj\Debug\FTP.exe
+C:\Системне програмування\проекти\FTP\FTP\obj\Debug\FTP.pdb

@@ -1,0 +1,10 @@
+C:\Системне програмування\проекти\Morkovka\Morkovka\bin\Debug\Morkovka.exe.config
+C:\Системне програмування\проекти\Morkovka\Morkovka\bin\Debug\Morkovka.exe
+C:\Системне програмування\проекти\Morkovka\Morkovka\bin\Debug\Morkovka.pdb
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.Form1.resources
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.Properties.Resources.resources
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.csproj.GenerateResource.cache
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.exe
+C:\Системне програмування\проекти\Morkovka\Morkovka\obj\Debug\Morkovka.pdb

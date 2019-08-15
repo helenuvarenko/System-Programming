@@ -1,0 +1,20 @@
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\bin\Debug\Registry-param-5(task 6).exe.config
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\bin\Debug\Registry-param-5(task 6).exe
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\bin\Debug\Registry-param-5(task 6).pdb
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry_param_5_task_6_.Form1.resources
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry_param_5_task_6_.Properties.Resources.resources
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).csproj.GenerateResource.cache
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).exe
+C:\Системне програмування\проекти\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).pdb
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\bin\Debug\Registry-param-5(task 6).exe.config
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\bin\Debug\Registry-param-5(task 6).exe
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\bin\Debug\Registry-param-5(task 6).pdb
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry_param_5_task_6_.Form1.resources
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry_param_5_task_6_.Properties.Resources.resources
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).csproj.GenerateResource.cache
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).exe
+C:\Системне програмування\проекти\лаб-1\Registry-param-5(task 6)\Registry-param-5(task 6)\obj\Debug\Registry-param-5(task 6).pdb

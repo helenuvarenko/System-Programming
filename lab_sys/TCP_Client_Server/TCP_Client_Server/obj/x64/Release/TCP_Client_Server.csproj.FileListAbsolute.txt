@@ -1,0 +1,9 @@
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\bin\x64\Release\TCP_Client_Server.exe.config
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\bin\x64\Release\TCP_Client_Server.exe
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\bin\x64\Release\TCP_Client_Server.pdb
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\obj\x64\Release\TCP_Client_Server.Form1.resources
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\obj\x64\Release\TCP_Client_Server.Properties.Resources.resources
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\obj\x64\Release\TCP_Client_Server.csproj.GenerateResource.cache
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\obj\x64\Release\TCP_Client_Server.csproj.CoreCompileInputs.cache
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\obj\x64\Release\TCP_Client_Server.exe
+C:\lab_sys\TCP_Client_Server\TCP_Client_Server\obj\x64\Release\TCP_Client_Server.pdb

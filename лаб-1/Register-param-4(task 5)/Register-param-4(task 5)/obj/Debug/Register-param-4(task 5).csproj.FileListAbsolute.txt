@@ -1,0 +1,21 @@
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).exe.config
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).exe
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).pdb
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).csprojResolveAssemblyReference.cache
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).csproj.CoreCompileInputs.cache
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).exe
+C:\Users\Program.cs\source\repos\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).pdb
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).exe.config
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).exe
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).pdb
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).exe
+C:\Системне програмування\проекти\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).pdb
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).exe.config
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).exe
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\bin\Debug\Register-param-4(task 5).pdb
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).exe
+C:\Системне програмування\проекти\лаб-1\Register-param-4(task 5)\Register-param-4(task 5)\obj\Debug\Register-param-4(task 5).pdb

@@ -1,0 +1,5 @@
+D:\1-2 course\Системне програмування\проекти\лаб-2\MS_Sql\MS_Sql\obj\Debug\MS_Sql.csprojAssemblyReference.cache
+D:\1-2 course\Системне програмування\проекти\лаб-2\MS_Sql\MS_Sql\obj\Debug\MS_Sql.Form1.resources
+D:\1-2 course\Системне програмування\проекти\лаб-2\MS_Sql\MS_Sql\obj\Debug\MS_Sql.Properties.Resources.resources
+D:\1-2 course\Системне програмування\проекти\лаб-2\MS_Sql\MS_Sql\obj\Debug\MS_Sql.csproj.GenerateResource.cache
+D:\1-2 course\Системне програмування\проекти\лаб-2\MS_Sql\MS_Sql\obj\Debug\MS_Sql.csproj.CoreCompileInputs.cache

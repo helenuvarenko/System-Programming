@@ -1,0 +1,9 @@
+C:\lab_6\Library_2\Library_2\bin\Debug\Library_2.dll
+C:\lab_6\Library_2\Library_2\bin\Debug\Library_2.pdb
+C:\lab_6\Library_2\Library_2\bin\Debug\Library_1.dll
+C:\lab_6\Library_2\Library_2\bin\Debug\Library_1.pdb
+C:\lab_6\Library_2\Library_2\obj\Debug\Library_2.csprojResolveAssemblyReference.cache
+C:\lab_6\Library_2\Library_2\obj\Debug\Library_2.csproj.CoreCompileInputs.cache
+C:\lab_6\Library_2\Library_2\obj\Debug\Library_2.csproj.CopyComplete
+C:\lab_6\Library_2\Library_2\obj\Debug\Library_2.dll
+C:\lab_6\Library_2\Library_2\obj\Debug\Library_2.pdb

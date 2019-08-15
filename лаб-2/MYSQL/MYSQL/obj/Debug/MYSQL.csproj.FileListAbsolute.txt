@@ -1,0 +1,13 @@
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\bin\Debug\MYSQL.exe.config
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\bin\Debug\MYSQL.exe
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\bin\Debug\MYSQL.pdb
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\bin\Debug\MySql.Data.dll
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MS_SQL_1.Category.resources
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.Properties.Resources.resources
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MS_Sql.Form1.resources
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.csproj.GenerateResource.cache
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.csproj.CopyComplete
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.exe
+C:\Системне програмування\проекти\лаб-2\MYSQL\MYSQL\obj\Debug\MYSQL.pdb

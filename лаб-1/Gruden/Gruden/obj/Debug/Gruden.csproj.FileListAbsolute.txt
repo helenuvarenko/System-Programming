@@ -1,0 +1,10 @@
+C:\Системне програмування\проекти\Gruden\Gruden\bin\Debug\Gruden.exe.config
+C:\Системне програмування\проекти\Gruden\Gruden\bin\Debug\Gruden.exe
+C:\Системне програмування\проекти\Gruden\Gruden\bin\Debug\Gruden.pdb
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.csprojResolveAssemblyReference.cache
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.Form1.resources
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.Properties.Resources.resources
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.csproj.GenerateResource.cache
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.csproj.CoreCompileInputs.cache
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.exe
+C:\Системне програмування\проекти\Gruden\Gruden\obj\Debug\Gruden.pdb
